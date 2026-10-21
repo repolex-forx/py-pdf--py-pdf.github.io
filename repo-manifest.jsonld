@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/py-pdf/py-pdf.github.io/commit/5aa20d2fcdf6edc65ba142f8554d25865336e174",
       "git:hexsha": "5aa20d2fcdf6edc65ba142f8554d25865336e174",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
