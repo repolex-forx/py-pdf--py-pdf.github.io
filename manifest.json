@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "py-pdf",
+  "repo": "py-pdf.github.io",
+  "versions": [
+    {
+      "commit": "5aa20d2fcdf6edc65ba142f8554d25865336e174",
+      "parsed_at": "2026-10-21T03:26:56.232426+00:00",
+      "filetree": "filetree/5aa20d2fcdf6edc65ba142f8554d25865336e174.nq.gz",
+      "blobs": [
+        "blob/371cfe355dd3e241cbd73707957e299ddef5bc4c.nq.gz",
+        "blob/5e3eddef0694c5d6d674cf6219dc0656cfbd2751.nq.gz",
+        "blob/1ca257ef611a22d906d675dbc0634d8ffa1bfa88.nq.gz",
+        "blob/1165a569b7b09b0915ff447c250f6259cd96011b.nq.gz",
+        "blob/ba210b72b65238f0948659cfdcb4d5ee5cf00a8b.nq.gz",
+        "blob/8c7f6c2be44b791e9334a8742844373f4caef713.nq.gz",
+        "blob/f5d8b1401aaebf4965238d767e813f7b72bbd1d2.nq.gz",
+        "blob/69e3d1ebb59a6ba3af066b2ca90d43c0be4865ae.nq.gz",
+        "blob/d9690eda455d471ca59e4647960efd00ba4550cc.nq.gz",
+        "blob/c496cade584f6f3716cadbafdc5cf2ef8f296ffd.nq.gz",
+        "blob/ca765d5a0a7332199f9f7ff196124c760d4c94fe.nq.gz",
+        "blob/a4b5d1a6c13e48548115f7dcddfc1c4d93c3bbd9.nq.gz",
+        "blob/90f2d78046f66953c8a628a502438075d16125d2.nq.gz",
+        "blob/17185c36f26566d4dc21b76bc2011898860a0155.nq.gz",
+        "blob/b364f0697ca7aa903f68882dda706e1f8300038c.nq.gz",
+        "blob/97358baec56d2a0beb8d41a59d2dd078059e401c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
